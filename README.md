@@ -1,40 +1,18 @@
-<div align="center">
+# Projeto Acadêmico – Banco de Dados
 
-<h1 style="color:#2B2A7A;"> Sistema de Banco de Dados - Fábrica de Botinas </h1>
+Este repositório faz parte das atividades da disciplina de **Modelagem de Banco de Dados**, do curso de **Ciência da Computação** da Faculdade Cruzeiro do Sul.
 
-<h3> Projeto Acadêmico - Faculdade Cruzeiro do Sul </h3>
+O objetivo do projeto é criar e manipular um banco de dados utilizando SQL, incluindo:
 
-</div>
+- Criação das tabelas (DDL)
+- Inserção de dados (INSERT)
+- Consultas (SELECT)
+- Atualizações (UPDATE)
+- Exclusões (DELETE)
 
-<table border="1" cellpadding="5">
-  <tr>
-    <td><strong>01_createTable.sql</strong></td>
-  </tr>
-  <tr>
-    <td><strong>02_insertData.sql</strong></td>
-  </tr>
-  <tr>
-    <td><strong>03_joins.sql</strong></td>
-  </tr>
-  <tr>
-    <td><strong>Modelo Conceitual (MER)</strong></td>
-  </tr>
-  <tr>
-    <td><strong>Modelo Lógico</strong></td>
-  </tr>
-  <tr>
-    <td><strong>Banco de Dados (fabrica_botinas.db)</strong></td>
-  </tr>
-</table>
+Todos os arquivos SQL foram organizados separadamente conforme solicitado na atividade.
 
-<br>
+**Autor:** Higor Ferreira  
+**Instituição:** Faculdade Cruzeiro do Sul  
+**Ano:** 2025
 
-<p align="center">
-  Repositório criado para fins educacionais no componente de Modelagem de Banco de Dados.
-</p>
-
-<div align="center">
-Autor: <strong>Higor Ferreira</strong><br>
-Curso: Ciência da Computação – 2025<br>
-Instituição: Faculdade Cruzeiro do Sul
-</div>
