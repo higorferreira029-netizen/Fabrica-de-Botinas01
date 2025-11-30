@@ -12,7 +12,7 @@ O objetivo do projeto é criar e manipular um banco de dados utilizando SQL, inc
 
 Todos os arquivos SQL foram organizados separadamente conforme solicitado na atividade.
 
-**Autor:** Higor Ferreira  
+**Autor:** Higor Paulo Silva Ferreira  
 **Instituição:** Faculdade Cruzeiro do Sul  
 **Ano:** 2025
 
